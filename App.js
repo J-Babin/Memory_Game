@@ -35,9 +35,10 @@ export default function App() {
   }
 
 
+  // decoupage des ligne 
+
+
   let row  = map();
-
-
   let result;
   if(row){
  
